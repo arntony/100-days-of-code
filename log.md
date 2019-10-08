@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 6, Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed micro-course of Intro to Machine Learning on Kaggle.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Built basic decision tree model in python, for housing price prediction
+- Evaluated best fit tree size for the model
+- Built random forest model on the same data set
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** First interaction with anything on kaggle. Developed an appreciation for the platform.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Into to Machine Learning - Kaggle](https://github.com/nikunjbhalla/kaggle-courses/tree/master/1.%20Intro%20to%20Machine%20Learning)
+
+
+### Day 2: October 7, Monday
+
+**Today's Progress**: Worked on handling missing values in the data in first exercise of micro-course of Intermediate Machine Learning on Kaggle. Small tricks but huge learning.
+
+**Thoughts** Improved rank in housing price challenge by 3,998 places, but that is nothing compared to learning. Looking forward to learn more, would be great to know thought process of others who worked on this problem without these courses.
+
+**Link(s) to work**
+[Handled missing values in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Missing%20Values.ipynb)
+
