@@ -34,4 +34,4 @@ The basic techniques:
 3. One hot encoding for nominal values
 
 **Link(s) to work**
-[Handled categorical columns in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Missing%20Values.ipynb)
+[Handled categorical columns in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Categorical%20Variables.ipynb)
