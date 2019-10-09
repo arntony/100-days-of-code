@@ -23,3 +23,15 @@
 **Link(s) to work**
 [Handled missing values in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Missing%20Values.ipynb)
 
+
+### Day 3: October 8, Tuesday
+
+**Today's Progress**: Learnt about handling categorical columns in the data in secondexercise of micro-course of Intermediate Machine Learning on Kaggle
+
+The basic techniques:
+1. Drop the column
+2. Use Label encoding for ordinal values
+3. One hot encoding for nominal values
+
+**Link(s) to work**
+[Handled categorical columns in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Missing%20Values.ipynb)
