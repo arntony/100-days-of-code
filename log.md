@@ -51,3 +51,10 @@ Later, did some excercises on python data types and functions
 
 **Link(s) to work**
 [Handled missing values and categorical columns in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Categorical%20Variables.ipynb)
+
+### Day 5: October 10, Thursday
+
+**Today's Progress**: 
+
+
+**Link(s) to work**
