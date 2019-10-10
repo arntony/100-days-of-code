@@ -26,7 +26,7 @@
 
 ### Day 3: October 8, Tuesday
 
-**Today's Progress**: Learnt about handling categorical columns in the data in secondexercise of micro-course of Intermediate Machine Learning on Kaggle
+**Today's Progress**: Learnt about handling categorical columns in the data in second exercise of micro-course of Intermediate Machine Learning on Kaggle
 
 The basic techniques:
 1. Drop the column
@@ -35,3 +35,19 @@ The basic techniques:
 
 **Link(s) to work**
 [Handled categorical columns in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Categorical%20Variables.ipynb)
+
+
+
+### Day 4: October 9, Wednesday
+
+**Today's Progress**: Applied learning from last two days to the kaggle competition. Came across another challenge where test data had some more missing values in other columns, number of which was very small.
+Still to get understanding of this, but lot of learning in this handson excercise.
+
+- Handled missing values in train and validation data
+- One hot encoded the categorical values with smaller cardinality (<10).
+
+Later, did some excercises on python data types and functions
+
+
+**Link(s) to work**
+[Handled missing values and categorical columns in data set](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/Categorical%20Variables.ipynb)
