@@ -54,7 +54,13 @@ Later, did some excercises on python data types and functions
 
 ### Day 5: October 10, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Was stuck for hours in a data imputation issue #unblocked. 
+Learnt about Pipelines and Cross Validation
+- Pipelines : Organizes the data pre-processing steps and modelling code. 
+- Cross validation : Running ML model on different subset of data with iterative changes to provide optimal parameters.
+
+Two very useful tools for easy iterations and modularity.
 
 
 **Link(s) to work**
+[Pipeline](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/3.%20Pipeline.ipynb)
