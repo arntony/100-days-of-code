@@ -64,3 +64,25 @@ Two very useful tools for easy iterations and modularity.
 
 **Link(s) to work**
 [Pipeline](https://github.com/nikunjbhalla/kaggle-courses/blob/master/2.%20Intermediate%20Machine%20Learning/3.%20Pipeline.ipynb)
+
+
+### Day 6: October 11, Friday
+
+**Today's Progress**: Learnt about eXtreme gradient boosting (XGBoost) and it's tuning parameters.
+
+Applied the learning of previous days to my housing price prediction model.
+Stepps used in the current random forest model script:
+1. Separate transformers for numerical and categorical data.
+2. Utilized Pipeline for preprocessing step, rather than individually doing all the  imputation
+3. Cross validation of model with different tree sizes, created modell with the optimum one.
+
+With the same preprocessing steps, used XGBoost instead of Random Forest. 
+Ran cross validation to find optimum regressor number and learning rate.
+
+A great dip in MAE score, lesser means better here :)
+
+PS: Reached Top 5% in the Kaggle competition (628/14807)
+
+**Link(s) to work**
+[Housing Price Prediction - Random Forest](https://github.com/nikunjbhalla/kaggle-iowa-house-prediction/blob/master/notebook/housing-price-prediction-with-randomforest.ipynb)
+[Housing Price Prediction - XGBoost](https://github.com/nikunjbhalla/kaggle-iowa-house-prediction/blob/master/notebook/housing-price-prediction-with-xgboost.ipynb)
