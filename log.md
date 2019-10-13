@@ -86,3 +86,14 @@ PS: Reached Top 5% in the Kaggle competition (628/14807)
 **Link(s) to work**
 [Housing Price Prediction - Random Forest](https://github.com/nikunjbhalla/kaggle-iowa-house-prediction/blob/master/notebook/housing-price-prediction-with-randomforest.ipynb)
 [Housing Price Prediction - XGBoost](https://github.com/nikunjbhalla/kaggle-iowa-house-prediction/blob/master/notebook/housing-price-prediction-with-xgboost.ipynb)
+
+### Day 7 and 8: October 11-12, Saturday-Sunday
+
+**Today's Progress**: Completed Intermediate Machine Learning micro course on Kaggle with lot of readings related to data leakage. 
+Two main categories:
+1. Target Leakage : This occurs when your predictors include data that will not be available at the time you make predictions
+2. Train Test Contamination : Using pipelines feature can simply avoid these.
+
+Spent time practicing problems related to python list and tuples.
+
+For next few days, focus will be on python practice, pandas and data visualization tools. Some warm-up before the sprint
