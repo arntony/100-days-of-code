@@ -87,7 +87,7 @@ PS: Reached Top 5% in the Kaggle competition (628/14807)
 [Housing Price Prediction - Random Forest](https://github.com/nikunjbhalla/kaggle-iowa-house-prediction/blob/master/notebook/housing-price-prediction-with-randomforest.ipynb)
 [Housing Price Prediction - XGBoost](https://github.com/nikunjbhalla/kaggle-iowa-house-prediction/blob/master/notebook/housing-price-prediction-with-xgboost.ipynb)
 
-### Day 7 and 8: October 11-12, Saturday-Sunday
+### Day 7 and 8: October 12-13, Saturday-Sunday
 
 **Today's Progress**: Completed Intermediate Machine Learning micro course on Kaggle with lot of readings related to data leakage. 
 Two main categories:
