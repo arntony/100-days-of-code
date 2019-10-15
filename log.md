@@ -13,7 +13,7 @@
 [Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
 
 
-### Day 2: October 14, Monday
+### Day 2: October 15, Monday
 
 **Today's Progress**: Completed Kaggle micro-course on Machine Learning and started Intermediate course on ML.
 
