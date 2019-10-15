@@ -37,7 +37,7 @@
 - Tried imputation using default strategy (mean)
 - Experimented using median as strategy for imputing null values
 
-**Thoughts** Thinking of ways to improve the current model, eager to learn more but no rush now. Persistance is key...!!!
+**Thoughts** Thinking of ways to improve the current model, eager to learn more but no rush now. Persistence is key...!!!
 
 **Link(s) to work**
 [Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
