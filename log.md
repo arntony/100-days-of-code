@@ -41,3 +41,18 @@
 
 **Link(s) to work**
 [Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
+
+
+### Day 4: October 17, Thursday
+
+**Today's Progress**: Learnt implementing categorical variables and ML piplines. Improved the house price prediction model in process. 
+
+- Explored ways of handling categorical variables
+- Learnt three different ways of treating CV. Elimiation, Label encoding, One Hot Encdoing
+- Understood the different checks and actions necessary to be performed before applying label encoding/one-hot encoding to avoid errors
+- Learnt how to implement ML pipelines using scikit learn packages
+
+**Thoughts** Kaggle's bite size courses are packed with so much knowledge that I am forced to optimize my learning pace. Read every line...!!!
+
+**Link(s) to work**
+[Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
