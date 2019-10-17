@@ -56,3 +56,17 @@
 
 **Link(s) to work**
 [Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
+
+
+### Day 5: October 18, Friday
+
+**Today's Progress**: Implemented Cross validations and Gradient Boosting model. It has greatly improved house price prediction performance. 
+
+- Learnt implementing Cross-validation during model building to find best n_estimator for RandomForestRegressor.
+- Learnt XG boost ensemble modelling technique.
+- Explored different hyper-parameters to further improve XG boost models
+
+**Thoughts** XG boost ensemble acts like pixie dusts on structured data for the kind of lift it provides on model performance. Impressive...!!!
+
+**Link(s) to work**
+[Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
