@@ -70,3 +70,17 @@
 
 **Link(s) to work**
 [Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
+
+
+### Day 6: October 19, Saturday
+
+**Today's Progress**: Applied all my learnings of last 5 days to improve house price prediction score. Jumped ~3k places up to reach at top 11% rank.
+
+- Learnt data leakage and it's impact on model performance. There are two types of these leakages:
+- Target leakage
+- train-test contamination
+
+**Thoughts** Will put one more day to further improvise the existing model before I move on to the next topic.
+
+**Link(s) to work**
+[Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
