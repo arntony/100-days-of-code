@@ -84,3 +84,18 @@
 
 **Link(s) to work**
 [Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
+
+
+
+### Day 7: October 23, Wednesday
+
+**Today's Progress**: Commenced my studies today after enjoing a 3 day short vacation. Started learning data visualization techniques.
+
+- Learnt to plot a line graph using matplotlib 
+- Learnt to use Seaborn
+- plotted a line graph using Seaborn
+
+**Thoughts** Data visualization using matplotlib and seaborn are really powerful. Will come in handy during exploratory analysis.
+
+**Link(s) to work**
+[Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
