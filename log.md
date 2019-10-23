@@ -89,13 +89,27 @@
 
 ### Day 7: October 23, Wednesday
 
-**Today's Progress**: Commenced my studies today after enjoing a 3 day short vacation. Started learning data visualization techniques.
+**Today's Progress**: Commenced my studies today after enjoying a 3-day short vacation. Started learning data visualization techniques.
 
 - Learnt to plot a line graph using matplotlib 
 - Learnt to use Seaborn
 - plotted a line graph using Seaborn
 
 **Thoughts** Data visualization using matplotlib and seaborn are really powerful. Will come in handy during exploratory analysis.
+
+**Link(s) to work**
+[Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
+
+
+
+### Day 8: October 24, Thursday
+
+**Today's Progress**: Learnt visualizing bar charts and heatmaps using matplotlib and seaborn packages in python.
+
+- Learnt to graph bar plots
+- Learnt to graph heatmaps
+
+**Thoughts** Producing graphs particularly using seaborn is very quick and the visuals are eye candy. More to learn there...
 
 **Link(s) to work**
 [Into to Machine Learning - Kaggle](https://github.com/arntony/kaggle/tree/master/housing_price_prediction)
